@@ -1,0 +1,8 @@
+**autosettings** is a Google Code site that contains the following projects:
+
+| **[Timeriffic](Timeriffic.md)** | **[Flashlight](Flashlight.md)** | **[Brighteriffic](Brighteriffic.md)** |
+|:--------------------------------|:--------------------------------|:--------------------------------------|
+| <img src='http://autosettings.googlecode.com/svn/trunk/AutoSettings/res/drawable/timeriffic_icon.png' align='left'> <b>Timeriffic</b> does one thing: it can mute or un-mute the global Android ringer at a specified time of the day. <br> Click here for <a href='Timeriffic.md'>more information on *Timeriffic*</a>. <table><thead><th> <img src='http://autosettings.googlecode.com/svn/trunk/Flashlight/res/drawable/bright_icon.png' align='left'> <b>Flashlight for Cupcake</b> is a flashlight application that <i>actually</i> works on Android 1.5 "cupcake". <br> Click here for <a href='Flashlight.md'>more information on *Flashlight*</a>. </th><th><img src='http://autosettings.googlecode.com/svn/trunk/Brighteriffic/res/drawable/icon.png' align='left'> <b>Brighteriffic</b> is an application to toggle the global screen brightness. <br> Click here for <a href='Brighteriffic.md'>more information on *Brighteriffic*</a>. </th></thead><tbody>
+<tr><td> <img src='http://autosettings.googlecode.com/svn/distrib/autosettings1.png' /> </td><td> <img src='http://autosettings.googlecode.com/svn/distrib/flashlight_white.png' /> </td><td> <img src='http://autosettings.googlecode.com/svn/distrib/brighteriffc1.png' /> </td></tr></tbody></table>
+
+For <a href='http://code.google.com/p/autosettings/w/list'>more wiki pages, click here</a>.
